@@ -1,0 +1,37 @@
+body {
+    background-color: #170f5a;
+    color: rgb(73, 69, 121);
+   }
+   h1 {
+    color: rgb(20, 92, 151);
+    text-align: left;
+    font-size: 200px;
+    font: italic 450% fantasy;
+   }
+   p {
+    background-color: rgb(55, 16, 100);
+    color: #4643c9;
+    font-size: 25px;
+    text-align: left;
+    border: none;
+   }
+
+   body, html {
+    height: 100%;
+  }
+  
+  .bg {
+
+    background-image: url("skyline.png");
+    height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   button { 
+    
+       color:black;
+       font-family: lucida sans; 
+       font-size: 20px;
+   }
